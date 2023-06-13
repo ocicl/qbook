@@ -1,0 +1,10 @@
+* qbook
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/bese/qbook.git   |
+| commit  |   |
+| systems | qbook |
+|---------+-------------------------------------------|
+
